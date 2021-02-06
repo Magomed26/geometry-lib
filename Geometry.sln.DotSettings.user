@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=34076d7f_002D9e24_002D47ff_002D9ef7_002D1171b9d608d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TriangleConstructorThrowArgumentExceptionWhenPassedNegativeValueForSides" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::EB61F008-6047-43CF-9890-88D009B9535E::net5.0::Geometry.Tests.TriangleTests.TriangleConstructorThrowArgumentExceptionWhenPassedNegativeValueOrZeroForSides&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EB61F008-6047-43CF-9890-88D009B9535E::net5.0::Geometry.Tests.TriangleTests.TriangleConstructorThrowArgumentExceptionWhenTriangleIsInvalid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EB61F008-6047-43CF-9890-88D009B9535E::net5.0::Geometry.Tests.TriangleTests.IsRightAngledPropertyReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EB61F008-6047-43CF-9890-88D009B9535E::net5.0::Geometry.Tests.TriangleTests.AreaPropertyReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EB61F008-6047-43CF-9890-88D009B9535E::net5.0::Geometry.Tests.CircleTests.AreaPropertyReturnsCorrectResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::EB61F008-6047-43CF-9890-88D009B9535E::net5.0::Geometry.Tests.CircleTests.CircleConstructorThrowsArgumentExceptionWhenPassedNegativeOrZeroRadius&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
